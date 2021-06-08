@@ -1,4 +1,4 @@
-Hi!, To test this proyect you can git clone this repo, or enter to this link to see de web page: 
+Hi, if you want to see this proyect you can do it with this link:
 https://adminpacientes.netlify.app
 
 # Getting Started with Create React App
